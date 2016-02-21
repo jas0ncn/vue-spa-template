@@ -23,5 +23,5 @@ npm test
 
 ## Offline dependencies download *(Not Recommended)*
 If you are in China, `npm` may be blocked by GFW.<br />
-Here are the latest(Maybe) dependencies's download link.<br />
+Here are the latest(Maybe) dependencies' download link.<br />
 [Link Here](http://pan.baidu.com/s/1nuaYXpZ)
