@@ -1,10 +1,13 @@
-# vue-spa-template
+# Vue SPA Template
 
 > A single page application template for vuejs
 
 ## Build Setup
 
 ``` bash
+# init 
+git clone git@github.com:jas0ncn/vue-spa-template.git
+
 # install dependencies
 npm install
 
@@ -17,5 +20,3 @@ npm run build
 # run unit tests
 npm test
 ```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
